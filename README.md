@@ -1,8 +1,8 @@
 <h1 align="center">
   👋 Hey, je me nomme 
-  <span style="color:#ecf0f1;">RAZAFINDRAINIBE</span> 
-  <span style="color:#3498db;">Ny Antsafitia</span> 
-  <span style="color:#FFD700; font-weight:bold;">Princy</span>
+  <font color="#ecf0f1">RAZAFINDRAINIBE</font> 
+  <font color="#3498db">Ny Antsafitia</font> 
+  <font color="#FFD700"><b>Princy</b></font>
 </h1>
 
 <p align="center">
