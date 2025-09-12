@@ -1,36 +1,65 @@
-# 👋 Salut, je suis Princy  
-
-🌱 J’apprends actuellement **Python, React et Machine Learning**  
-📫 Me contacter : [tonEmail@gmail.com](mailto:tonEmail@gmail.com)  
-🌐 Portfolio : [Mon Portfolio](https://ton-site.com)  
-⚡ Fun fact : J’aime jouer aux jeux vidéo et écouter de la musique 🎵  
+<!-- Titre avec bannière -->
+<h1 align="center">👋 Hey, je suis Princy Razafy</h1>
+<h3 align="center">💻 Développeur passionné | 🌍 Apprenant à vie | 🚀 Futur créateur d’innovations</h3>
 
 ---
 
-### 🔗 Connecte-toi avec moi :
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/tonprofil)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/tonprofil)
+### 🌟 À propos de moi
+- 🔭 Actuellement en train d’apprendre : **Python, React & Machine Learning**  
+- 🎯 Objectif : Créer des projets utiles et partager mes connaissances  
+- 🎮 Fun fact : J’adore jouer aux jeux vidéo et écouter de la musique 🎵  
+- 📫 Contactez-moi : **[tonEmail@gmail.com](mailto:tonEmail@gmail.com)**  
+- 🌐 Mon Portfolio : [Voir mon site](https://ton-site.com)  
 
 ---
 
-### 💻 Langages de programmation :
+### 🌐 Connecte-toi avec moi :
+<p align="left">
+  <a href="https://facebook.com/tonprofil" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/tonprofil" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/tonprofil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/tonprofil" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🚀 Langages et Outils
+
+#### 🖥️ Langages :
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
-
-### ⚙️ Frameworks et Librairies :
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+#### ⚙️ Frameworks & Librairies :
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
-
-### 🛠 Outils :
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+#### 🔧 Outils :
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=green)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 📊 Statistiques GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrincyRazafy&show_icons=true&theme=tokyonight" alt="Stats GitHub" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrincyRazafy&layout=compact&theme=tokyonight" alt="Langages utilisés" height="180"/>
+</p>
+
+---
+
+### 🚀 Citation motivante
+> *"Le code est comme l’art, il devient magique quand on y met du cœur."* 💡
