@@ -1,31 +1,28 @@
 <!-- Titre avec bannière -->
 <h1 align="center">👋 Hey, je suis Princy Razafy</h1>
-<h3 align="center">💻 Développeur passionné | 🌍 Apprenant à vie | 🚀 Futur créateur d’innovations</h3>
+> *"Le code est comme l’art, il devient magique quand on y met du cœur."* 💡
+<h3 align="center">💻 Développeur passionné </h3>
 
 ---
 
 ### 🌟 À propos de moi
-- 🔭 Actuellement en train d’apprendre : **Python, React & Machine Learning**  
 - 🎯 Objectif : Créer des projets utiles et partager mes connaissances  
-- 🎮 Fun fact : J’adore jouer aux jeux vidéo et écouter de la musique 🎵  
-- 📫 Contactez-moi : **[tonEmail@gmail.com](mailto:tonEmail@gmail.com)**  
-- 🌐 Mon Portfolio : [Voir mon site](https://ton-site.com)  
+- 🎮 Fun fact : J’adore jouer aux jeux vidéo et écouter de la musique
+- 📫 Contactez-moi : 
+- 🌐 Mon Portfolio : 
 
 ---
 
 ### 🌐 Connecte-toi avec moi :
 <p align="left">
-  <a href="https://facebook.com/tonprofil" target="_blank">
+  <a href="https://facebook.com/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://instagram.com/tonprofil" target="_blank">
+  <a href="https://instagram.com/l" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/tonprofil" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/tonprofil" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
@@ -41,8 +38,6 @@
 
 #### ⚙️ Frameworks & Librairies :
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 #### 🔧 Outils :
@@ -58,8 +53,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=PrincyRazafy&show_icons=true&theme=tokyonight" alt="Stats GitHub" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrincyRazafy&layout=compact&theme=tokyonight" alt="Langages utilisés" height="180"/>
 </p>
-
----
-
-### 🚀 Citation motivante
-> *"Le code est comme l’art, il devient magique quand on y met du cœur."* 💡
