@@ -1,5 +1,9 @@
-<!-- Titre avec bannière -->
-<h1 align="center">👋 Hey, je suis Princy Razafy</h1>
+<h1 align="center">
+  👋 Hey, je me nomme 
+  <span style="color:#ecf0f1;">RAZAFINDRAINIBE</span> 
+  <span style="color:#3498db;">Ny Antsafitia</span> 
+  <span style="color:#FFD700; font-weight:bold;">Princy</span>
+</h1>
 
 <p align="center">
   <em>"Le code est comme l’art, il devient magique quand on y met du cœur." 💡</em>
