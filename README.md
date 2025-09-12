@@ -1,7 +1,12 @@
 <!-- Titre avec bannière -->
 <h1 align="center">👋 Hey, je suis Princy Razafy</h1>
-> *"Le code est comme l’art, il devient magique quand on y met du cœur."* 💡
-<h3 align="center">💻 Développeur passionné </h3>
+
+<p align="center">
+  <em>"Le code est comme l’art, il devient magique quand on y met du cœur." 💡</em>
+</p>
+
+<h3 align="center">💻 Développeur passionné</h3>
+
 
 ---
 
